@@ -1,6 +1,6 @@
 # ​ Programação Web – Exercícios e Projetos
 
-Bem-vind@ ao meu repositório de **Programação Web**! :rocket:  
+Bem-vind@ ao meu repositório de **Programação Web**!
 Aqui estão reunidos os códigos desenvolvidos durante as aulas, incluindo exercícios, práticas e pequenos projetos.
 
 ---
